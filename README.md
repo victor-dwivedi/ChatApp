@@ -1,20 +1,7 @@
 # Chat Application MERN-Stack Web Application.
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
-  </a>
-</p>
 
----
 
-<a style="" href="https://chat-application-jack.vercel.app/">
-  
-![Macbook-Air-Iphone-13](https://github.com/user-attachments/assets/24edbef0-083f-44d4-9717-3e659ecb404b)
-
-</a>
 
 ---
 
@@ -138,11 +125,6 @@ Open `http://localhost:5173` in your web browser.
     │   └── package.json
     └── README.md
 
-## Author
-
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
 ## Images
 **Profile**
