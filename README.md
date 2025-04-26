@@ -160,8 +160,6 @@ Open `http://localhost:5173` in your web browser.
 **Shimmer**
 ![image](https://github.com/user-attachments/assets/45b6665a-9e2d-4a61-b092-7cb7a0b775be)
 
-**Footer**
-![Screenshot 2024-07-22 154954](https://github.com/user-attachments/assets/82daa377-4285-45a3-af99-f0920344fa0b)
 
 ## Thank You
 
